@@ -1,5 +1,4 @@
-// Paste your mailing-list provider's public signup-page URL here.
-// This is a public link, never an API key or password.
+// Public Microsoft Forms signup link.
 window.COMPUTING_LIFE = {
-  mailingListUrl: ""
+  mailingListUrl: 'https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwne2IJRvk5NCvmrC4YS_jkBUMjNMRUlXSVlORVIwRUpXR0FLMlA2M0FJVS4u'
 };
